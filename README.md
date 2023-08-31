@@ -1,6 +1,6 @@
 ### Olá! Eu sou Verty
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho com back-end
 - 🌱 Estudando TypeScript
 - 📫 Contate-me no email: panonojulia@gmail.com
 
